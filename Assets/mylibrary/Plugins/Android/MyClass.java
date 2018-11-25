@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2018 FishWaffle.
+ */
+
 package com.example.fishwaffle.mylibrary;
 
 import android.util.Log;
@@ -13,7 +17,7 @@ public class MyClass {
         Log.d("TEST", "instanceMethod");
     }
 
-  public   static class innerClass {
+    public static class innerClass {
         public static void staticMethodInner() {
             Log.d("TEST", "staticMethodInner");
         }

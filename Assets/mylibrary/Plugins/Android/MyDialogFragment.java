@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2018 FishWaffle.
+ */
+
 package com.example.fishwaffle.mylibrary;
 
 import android.app.AlertDialog;
